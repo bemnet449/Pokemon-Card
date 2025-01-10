@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using P.Models;
 using P.Services;
 
-namespace PokemonApi.Controllers
+namespace P.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
